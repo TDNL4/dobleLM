@@ -10,25 +10,25 @@ El asistente está diseñado para una plataforma de streaming, con el objetivo d
 ## Instalación y Configuración
 
 1. **Clonar el repositorio y acceder a la carpeta del proyecto:**
-   \`\`\`bash
-   git clone <URL_DE_TU_FORK>
+   \`\`\`
+   git clone <La url se encuentra en el botón verde en el apartado HTML>
    cd llm
    \`\`\`
 
 2. **Crear y activar un entorno virtual:**
    * En Windows:
-     \`\`\`bash
+     \`\`\`
      python -m venv venv
      venv\Scripts\activate
      \`\`\`
    * En macOS/Linux:
-     \`\`\`bash
+     \`\`\`
      python3 -m venv venv
      source venv/bin/activate
      \`\`\`
 
 3. **Instalar las dependencias:**
-   \`\`\`bash
+   \`\`\`
    pip install -r requirements.txt
    \`\`\`
 
