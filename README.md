@@ -1,6 +1,7 @@
 # Proyecto 8: LLM
-Escribe aquí una breve descripción de tu proyecto
+Este proyecto implementa un asistente de atención al cliente utilizando la API de OpenAI.
 
+El asistente está diseñado para una plataforma de streaming, con el objetivo de resolver dudas de los usuarios y ofrecer recomendaciones de contenido para mejorar la retención de suscriptores.
 ## Requisitos previos
 
 - Python 3.8 o superior.
